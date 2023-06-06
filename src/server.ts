@@ -13,4 +13,6 @@ async function bootstrap() {
   } catch (err) {
     errorlogger.error('falied connect', err)
   }
+}
+
 bootstrap()

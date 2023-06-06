@@ -9,6 +9,11 @@
             "date": 1686062397608,
             "name": "/Users/asifiqbal/Programming-Hero/university-management-server-main/logs/winston/errors/phu-2023-06-06-20-errors.log",
             "hash": "451c5b48268eb5e33f9e93bc8cda363d1ce7aa5baa10c73b3290845306784c5d"
+        },
+        {
+            "date": 1686064216117,
+            "name": "/Users/asifiqbal/Programming-Hero/university-management-server-main/logs/winston/errors/phu-2023-06-06-21-errors.log",
+            "hash": "61e045c07bf6191d2795a97e2616b42b27c0ab43f099bfdf17f513a7524ac290"
         }
     ],
     "hashType": "sha256"
