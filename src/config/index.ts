@@ -7,3 +7,4 @@ export default {
   database_urls: process.env.DATABASE_URL,
   default_user_pass: process.env.DEFAULT_USER_PASS,
 }
+// 
