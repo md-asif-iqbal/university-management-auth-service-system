@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/asifiqbal/Programming-Hero/university-management-server-main/logs/winston/successes/.2525961f4152d96e0ae295e2d7a2b945d9f87248-audit.json",
+    "files": [
+        {
+            "date": 1686062397607,
+            "name": "/Users/asifiqbal/Programming-Hero/university-management-server-main/logs/winston/successes/phu-2023-06-06-20-success.log",
+            "hash": "67d0d23ca68e48611c258a487d071984a1df1b8b1da9921e395ff4e25147bc77"
+        }
+    ],
+    "hashType": "sha256"
+}
