@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/asifiqbal/Desktop/university-management-server-side/logs/winston/successes/.ad2678ffd8b8031e19edf5e76b2230f935ae7b14-audit.json",
+    "files": [
+        {
+            "date": 1686159366943,
+            "name": "/Users/asifiqbal/Desktop/university-management-server-side/logs/winston/successes/phu-2023-07-06-23-success.log",
+            "hash": "5e043fef6ab2ff8e71007f066e82ad3321d6a60b5cacb228b37c3112ff5ee6c4"
+        },
+        {
+            "date": 1686209657256,
+            "name": "/Users/asifiqbal/Desktop/university-management-server-side/logs/winston/successes/phu-2023-08-06-13-success.log",
+            "hash": "a18677e3b82bb22233cce5d1c33dbb03e03a3f1007b66056428c15feea79a07e"
+        },
+        {
+            "date": 1686245312320,
+            "name": "/Users/asifiqbal/Desktop/university-management-server-side/logs/winston/successes/phu-2023-08-06-23-success.log",
+            "hash": "f07a42a680a2f3e1d398bebfd1e19bfdd2099df6abd1a2ac8c8614d06f07f6de"
+        },
+        {
+            "date": 1686290577858,
+            "name": "/Users/asifiqbal/Desktop/university-management-server-side/logs/winston/successes/phu-2023-09-06-12-success.log",
+            "hash": "72f926c1c23a0e6d4736ff31f9a32e70946e2dfeef30d0d9fc2252b32622e9b6"
+        },
+        {
+            "date": 1686413982875,
+            "name": "/Users/asifiqbal/Desktop/university-management-server-side/logs/winston/successes/phu-2023-10-06-22-success.log",
+            "hash": "1dd5af5c11cde8e478495e16a63eff106e28a4ff854f97d83ce8a0813085a841"
+        }
+    ],
+    "hashType": "sha256"
+}
